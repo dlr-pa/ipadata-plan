@@ -1,8 +1,6 @@
 Konzept für Neuorganisation der Datenhaltung am Institut für Physik der Atmosphäre
 ===================================================================================
 
-Björn Brötz | Winfried Beer
-
 ## Ziele der neuen Struktur
 
 + Nachnutzbarkeit der Forschungsdaten innerhalb des Institutes verbessern
